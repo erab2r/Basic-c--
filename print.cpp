@@ -7,6 +7,10 @@ int main(){
      char c = 'A';
      int ascii = c;
      cout << ascii << endl;
+    // type casting
+    char d = 'a';
+    cout << (int)d << endl;
+
 
     return 0;
 }
