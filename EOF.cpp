@@ -5,6 +5,6 @@ int main(){
     while (cin >> x){
         cout << x <<endl;
     }
-    
     return 0;
-}
+}           
+           
